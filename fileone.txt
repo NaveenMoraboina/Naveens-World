@@ -2,3 +2,4 @@ Hi This is my first git file.
 This is the first commit. This is enough...let's quit now.
 this is a new change to the first file.
 checking the new commit changes command and bypassing add command.
+New changes are being applied.
