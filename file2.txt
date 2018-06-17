@@ -1,5 +1,13 @@
+<<<<<<< HEAD
+This is the first text file that is created in a new repo
+Applying new changes to the file2 text file on Locrepo2.
+=======
 This is the first text file that is created in a new repo.
 Have to do some changes to check the stages of this file.
 
+<<<<<<< HEAD
 New file in Branch1
+=======
+>>>>>>> 90e5924345583383f3b76f94ca9b51d4dc97fe89
+>>>>>>> ba4fe3f0d6f71462358002866456dea40074fc9a
 
