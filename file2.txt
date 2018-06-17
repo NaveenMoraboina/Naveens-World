@@ -1,2 +1,4 @@
-This is the first text file that is created in a new repo
+This is the first text file that is created in a new repo.
+Have to do some changes to check the stages of this file.
+
 
